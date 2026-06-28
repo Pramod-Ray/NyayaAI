@@ -1,0 +1,15 @@
+chromadb==0.4.22
+sentence-transformers==2.2.2
+groq>=1.5.0
+streamlit>=1.47.0
+python-dotenv==1.0.0
+PyMuPDF==1.23.8
+pandas==2.1.4
+tqdm==4.66.1
+openai==1.80.0
+fastapi==0.110.0
+uvicorn==0.29.0
+sqlalchemy==2.0.28
+psycopg2-binary==2.9.9
+python-multipart==0.0.9
+
