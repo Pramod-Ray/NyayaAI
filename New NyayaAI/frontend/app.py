@@ -341,9 +341,6 @@ elif user_question:
     
     
 
-# cd "/d/Python Notes/New Projects/NyayaAI_fixed/New NyayaAI"
-# streamlit run frontend/app.py
-
 
 
 
