@@ -770,30 +770,6 @@ IMPORTANT:
                 # LLM general knowledge se hi answer de dega, just less precise
                 upload_context = ""
 
-            # text_messages = [
-            #     {
-            #         "role": "system",
-            #         "content": (
-            #             system_prompt
-            #             + (
-            #                 f"\n\nRelevant legal knowledge base context "
-            #                 f"(use exact numbers/sections from here jahan applicable ho):\n{upload_context}"
-            #                 if upload_context else ""
-            #             )
-            #         ),
-            #     },
-            #     {
-            #         "role": "user",
-            #         "content": f"Document ka extracted text:\n\n{extracted_text}",
-            #     },
-            # ]
-            # completion = groq_client.chat.completions.create(
-            #     model=os.getenv("GROQ_MODEL"),
-            #     messages=text_messages,
-            #     max_tokens=1500,
-            # )
-            # ai_response = clean_llm_response(completion.choices[0].message.content)
-            # ai_response = ask_llm(text_messages)
             MAX_PDF_TEXT = 6000   # Approx. 5–6 pages of text
 
             pdf_text = extracted_text[:MAX_PDF_TEXT]
