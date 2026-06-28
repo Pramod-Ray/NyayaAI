@@ -857,8 +857,6 @@ IMPORTANT:
     
 
 
-# cd "/d/Python Notes/New Projects/NyayaAI_fixed/New NyayaAI/Backend"
-# uvicorn main:app --reload
 
 
 
