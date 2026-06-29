@@ -2,7 +2,7 @@
 .env
 
 # ChromaDB — local knowledge base data
-ai/data/chroma_db/
+# ai/data/chroma_db/
 
 # Python cache
 __pycache__/
@@ -15,8 +15,8 @@ env/
 .venv/
 
 # Input data — sensitive documents
-ai/data/pdfs/
-ai/data/faqs/
+# ai/data/pdfs/
+# ai/data/faqs/
 
 # OS files
 .DS_Store
@@ -28,5 +28,5 @@ Thumbs.db
 # Personal notes — private
 notes.txt
 
-*.db
-*.sqlite3
+# *.db
+# *.sqlite3

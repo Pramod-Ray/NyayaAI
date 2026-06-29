@@ -1,0 +1,1134 @@
+2)  -
+The National Cybercrime Threat Analytics Unit of I4C has identified an emerging transnational crime trend
+where certain Facebook & Instagram accounts are publishing advertisements that claim users can
+“earn cash automatically” by linking their WhatsApp accounts with their platform. These advertisements
+redirect users to fraud Web pages or Android mobile applications (.apk) that imitate legitimate earning
+platforms.
+Unsuspecting individuals are lured by promises of high commissions and passive income, and are
+instructed to connect their WhatsApp accounts through QR codes. This campaign is orchestrated by threat
+actors to exploit WhatsApp’s linked device feature which allows web based access to WhatsApp.
+Such accounts are effectively being rented out as “mule WhatsApp accounts”, which may subsequently
+be used for illegal activities such as fraud, scams, or dissemination of malicious content.
+Modus Operandi
+• Advertisement: Threat actors publish Meta advertisements claiming users can earn automatic
+commissions through QR code scanning or sign-up referrals.
+• Redirection: Users are redirected to fraudulent web pages or prompted to install malicious
+Android APKs.
+• Account Linking: Victims are instructed to scan a QR code displayed in app via WhatsApp. Once
+scanned, the scammer system gains linked-device access to the victim’s WhatsApp account.
+• Commission Scheme: To appear legitimate, a multi-level commission structure is promoted:
+o Level 1 (Direct Invites): 10% commission on friends’ earnings.
+o Level 2 (Indirect Invites): 5% commission on secondary invites.
+o Level 3 (Indirect Invites): 2% commission on third-level invites.
+This structure encourages continuous sharing and onboarding, creating a pyramid-like
+network to harvest more linked accounts.
+• Abuse: Use of mule WhatsApp accounts to scale scams (phishing, payment fraud, recruitment for
+further mule services).
+National Cybercrime Threat Analytics Unit (NCTAU) Indian Cybercrime Coordination Centre (I4C)
+WhatsApp Web Account Renting Scam – using Facebook & Instagram
+advertisements
+TAU/ADV/005 | Dated – 15
+th October
+2025
+National Cybercrime Threat Analytics Unit (NCTAU) Indian Cybercrime Coordination Centre (I4C)
+Ac
+National Cybercrime Threat Analytics Unit (NCTAU) Indian Cybercrime Coordination Centre (I4C)
+National Cybercrime Threat Analytics Unit (NCTAU) Indian Cybercrime Coordination Centre (I4C)
+Precautions
+• Renting WhatsApp account and receiving illicit funds can lead to legal consequences, including
+arrest.
+• Avoid installing APKs from unknown sources.
+• Be cautious of Meta Ads that promise quick income, referral commissions, or automatic cash
+earnings (specially related to stock market investment).
+• Periodically check for suspicious devices linked to your WhatsApp by navigating to Linked
+Devices.
+In case of any impersonation of identity, circulation of morphed, pornographic, vulgar, or sexually explicit
+content, sharing of inappropriate images or videos involving a minor, violation of intellectual property
+rights, compromised or hacked accounts, accounts disseminating bulk messages containing harmful or
+misleading information, disabled or banned accounts under WhatsApp’s Terms of Service, or to report
+any issue related to WhatsApp Channels — users are advised to contact the official WhatsApp support
+team through the following link: https://www.whatsapp.com/contact/forms/1534459096974129
+
+
+
+
+
+4)  Disclaimer: This advisory is provided "as is" for informational purposes only. The I4C(MHA) does not provide any warranties of any kind
+regarding any information contained herein. The I4C does not endorse any commercial product or service referenced in this Advisory or
+otherwise.
+1
+ Oct 17
+th
+, 2022
+Subject: Fraudsters using heat signatures of fingertips on keypads to crack
+passwords/PINs.
+Threat Summary
+A new attack technique is being used by fraudsters of
+cracking passwords/PINs (ATMs, POS machine, Smart
+doors with keypad locks, etc.) by examining heat signatures
+that fingertips leave on keyboards/screens while entering
+passwords, such frauds use combination of thermal imaging
+and Artificial Intelligence (AI).
+AI algorithms are used to accurately guess the
+passwords as per the snapped heat signatures. The brighter the
+area appears on the thermal image, the more recently it would
+have been touched. Using such correlations PINs/passwords are
+being cracked.
+Modus Operandi
+ Fraudsters generally target ATMs which are unguarded
+and not surveilled properly with video cameras.
+ Fraudsters wait for their victims to avail desired services
+(such as withdraw, submit or sending money). As soon
+as the victim vacates the ATM, the fraudster takes
+pictures/videos by using a thermal-imaging camera to
+record the heat signature of the keys touched to enter the
+PIN.
+ Sometimes a camera is also placed inside an ATM for realtime capturing of heat signatures.
+ The warmer the heat signal of an area (of a key) is, the more recently it was touched, which
+allows fraudsters to determine the possible PIN combinations.
+ Smart doors using keypad locks and POS machines being used at various shops/restaurants
+are also vulnerable to such methods.
+Cyber Crime Information - 164
+Fig. 01 – Sample normal image
+Fig. 02 – Sample thermal image
+Disclaimer: This advisory is provided "as is" for informational purposes only. The I4C(MHA) does not provide any warranties of any kind
+regarding any information contained herein. The I4C does not endorse any commercial product or service referenced in this Advisory or
+otherwise.
+2
+I4C
+ Aforesaid method is generally used along with card skimming, hacking unsecured Wi-Fi
+networks (being used for payments/subscriptions), malware, phishing links, or data
+breaches, etc. by fraudsters for perpetrating such frauds.
+Suggestions
+ Avoid using ATMs which are unguarded and not surveilled properly with video cameras.
+ Always examine the ATMs for any suspicious attachments (in ATM rooms walls or the
+machine). Hide the keypad area while entering the PIN.
+ Press multiple random number keys (buttons) before leaving the ATM machine/POS
+machine/Smart Locks to generate non meaningful heat signature.
+ Properly check the SMSs and emails sent by your bank regarding any transactions properly,
+contact your bank instantly if a suspicious transaction is spotted.
+ Report any such incidents on the cybercrime.gov.in portal and follow @CyberDost on
+Twitter, YouTube, Facebook, Instagram, Public, Koo and LinkedIn to know more about
+safety tips.
+Regards,
+Indian Cyber Crime Coordination Centre
+CIS Division, MHA
+011-23438207
+Cyber Crime Information – 164
+[RESTRICTED]
+Fig. 01: Sample email sent by fraudsters
+
+
+
+
+5)  Disclaimer: This advisory is provided "as is" for informational purposes only. The I4C(MHA) does not provide any warranties of any kind
+regarding any information contained herein. The I4C does not endorse any commercial product or service referenced in this Advisory or
+otherwise.
+1
+ August 30
+th, 2022
+Subject: Cybercriminals using malicious browser extensions to perpetrate Cyber
+Crime.
+Threat Summary
+It has been observed that a large number of
+users have started installing browser extensions,
+and many such extensions are malicious, and use
+adware to target users with advertisements.
+The most common payloads carried by
+these malicious web browser extensions belong to
+adware families, which carry out snooping on
+browsing activity and promoting affiliate links.
+Modus Operandi
+ Cybercriminals use adware extensions to target users by mimicking productivity tools
+such as DOC to PDF converters, document merging utilities, etc.
+ These malicious extensions monitor users' browsing activity to profile them based
+on their interests and then promote links on the browser from affiliated marketing
+programs that help monetize the infection.
+ These malicious extensions also download & execute pirated software from peer-topeer networks and dubious sites.
+ New registry keys are inserted in the systems to add persistence, so if the user
+removes the extension, it is re-downloaded and installed on the browser.
+ These malicious extensions change the browser's home page to promote affiliate
+sites that match the user's search queries.
+ The cybercriminals leverage the stolen sensitive personal/financial information to
+perpetrate further financial cyber crimes.
+Cyber Crime Information - 162
+Fig. 01 – Malicious browser extensions
+Disclaimer: This advisory is provided "as is" for informational purposes only. The I4C(MHA) does not provide any warranties of any kind
+regarding any information contained herein. The I4C does not endorse any commercial product or service referenced in this Advisory or
+otherwise.
+2
+I4C
+Suggestions
+ Avoid downloading browser extensions from unofficial and unknown sources.
+Browser's official web store is a reliable source to download extensions.
+ Scrutinize user comments and reviews, and run a background check on the
+developer/publisher of the extension.
+ Review the privacy policy and data collection practices carefully before agreeing to
+them, as some extensions require permissions.
+ Periodically review the installed add-ons and extensions, remove any that you are
+unsure of how they were installed.
+ Report any such incidents on the cybercrime.gov.in portal and follow @CyberDost
+on Twitter, YouTube, Facebook, Instagram, Public, Koo and LinkedIn to know more
+about safety tips.
+Regards,
+Indian Cyber Crime Coordination Centre
+CIS Division, MHA
+011-23438207
+Cyber Crime Information – 162
+[RESTRICTED]
+Fig. 01: Sample email sent by fraudsters
+
+
+
+
+5)  Disclaimer: This advisory is provided "as is" for informational purposes only. The I4C(MHA) does not provide any warranties of any kind
+regarding any information contained herein. The I4C does not endorse any commercial product or service referenced in this Advisory or
+otherwise.
+1
+ August 31st, 2022
+Subject: Cybercriminals using Caller ID Spoofing to perpetrate Cyber Crime.
+Threat Summary
+Caller ID Spoofing is when a caller
+deliberately falsifies the information transmitted
+to your caller ID display to disguise their identity.
+Caller ID is changed to any number other than
+the actual calling number.
+Fraudsters often use Caller ID Spoofing
+to spoof a number from a company or a
+government agency that their targets may
+already know and trust. They use scam scripts
+to try to steal your money or valuable personal
+information, which can be used in fraudulent activity.
+Modus Operandi
+ Fraudsters make phone calls to their targets using Caller ID Spoofing (or Phone number
+spoofing), that displays the Caller ID as though it's coming from a government agency,
+business, or even someone in target’s contact list in an attempt to trick the target victim
+into answering the call.
+ Fraudulent callers use spoofing to impersonate bank officials, utility companies,
+government officials, police, etc.
+ Spoofed calls impersonating reputed banks asking for personal info (account numbers,
+account PINs, etc.), or impersonating e-commerce sites offering gifts cards, or reputed
+employment websites regarding job offers, etc. are among various techniques used by
+fraudsters.
+ Fraudsters defraud, cause harm or scam victims into providing info that victims’ may not
+otherwise provide over the phone.
+ The cybercriminals leverage the stolen sensitive personal/financial information to
+perpetrate further financial cyber crimes.
+Cyber Crime Information - 163
+Fig. 01 – Caller ID Spoofing
+Disclaimer: This advisory is provided "as is" for informational purposes only. The I4C(MHA) does not provide any warranties of any kind
+regarding any information contained herein. The I4C does not endorse any commercial product or service referenced in this Advisory or
+otherwise.
+2
+I4C
+Suggestions
+ Avoid sharing personal information such as Bank account numbers, Aadhar number,
+mother's maiden names, passwords or other identifying information on unexpected calls
+or calls from unknown numbers.
+ If you get an inquiry from someone who says they represent a company/bank or a
+government agency, verify the authenticity of the number on the official website of that
+company/bank or govt. organisation.
+ Scrutinize, if a request seems too urgent, as fraudsters typically show urgency in their
+requests.
+ Be Aware: Caller ID showing a "local" number no longer means it is necessarily a local
+caller.
+ Report any such incidents on the cybercrime.gov.in portal and follow @CyberDost on
+Twitter, YouTube, Facebook, Instagram, Public, Koo and LinkedIn to know more about
+safety tips.
+Regards,
+Indian Cyber Crime Coordination Centre
+CIS Division, MHA
+011-23438207
+Cyber Crime Information – 163
+[RESTRICTED]
+Fig. 01: Sample email sent by fraudsters
+
+
+
+
+
+
+6)  Disclaimer: This advisory is provided "as is" for informational purposes only. The I4C(MHA) does not provide any warranties of any kind
+regarding any information contained herein. The I4C does not endorse any commercial product or service referenced in this Advisory or
+otherwise.
+1
+ May 10
+th
+, 2022
+Subject: Fake SMSs related to unpaid Electricity Bill to dupe citizens
+Threat Summary
+Smishing - Cybercriminals send text messages pretending to be from trusted sources to get
+targets to click on links that install malware
+or steal personal & banking details.
+It has been observed that Cyber
+fraudsters have started duping people in
+the name of unpaid electricity bill. The
+fraud campaign is being aggressively
+spread using SMSs. Users tend to be less
+skeptical of text messages, so smishing is
+often lucrative to attackers looking for
+credentials, banking information, or private data.
+Modus Operandi
+ Fraudster sends text messages (SMSs) to the target phone numbers stating “Your
+Electricity Power will be disconnected tonight at
+9:30 pm because your previous month bill was not
+updated. Please immediately contact with our
+electricity officer 9898XXXXXX”.
+ Once the victim makes contact with the given
+fraudster’s number, then the fraudster tries to
+convince victim to share the bank account details
+for the purposes of verifying previous payments.
+ Spammers use caller ID Spoofing to make it
+appear the text is from a trusted or local source.
+ The fraudster also asks victim to install remote access application like Anydesk, Team
+viewer, etc.
+ Once the victim shares all the information and follows the instructions given by the
+fraudster, the victim’s bank account is under the fraudster’s control to make fraudulent
+transactions
+Cyber Crime Information - 156
+Fig. 01 – Cyber frauds using fake SMSs
+ Fig. 02 – Smishing SMSs
+Disclaimer: This advisory is provided "as is" for informational purposes only. The I4C(MHA) does not provide any warranties of any kind
+regarding any information contained herein. The I4C does not endorse any commercial product or service referenced in this Advisory or
+otherwise.
+2
+I4C
+Suggestions
+ Avoid sharing your phone number unless you know the person or organization well.
+ Spammers use caller ID Spoofing to make it appear the text is from a trusted or local
+source.
+ Avoid downloading software from unofficial sources. Remove non-essential applications.
+ Avoid providing personal or financial information in response to the unsolicited text or at
+a website linked to the message.
+ Avoid clicking on links in suspicious text; they could install malware on your device or
+take you to a site that does the same.
+ Report any such incidents on the cybercrime.gov.in portal and follow @CyberDost on
+Twitter, YouTube, Facebook, Instagram, Public, Koo and LinkedIn to know more about
+safety tips.
+Regards,
+Indian Cyber Crime Coordination Centre
+CIS Division, MHA
+011-23438207
+Cyber Crime Information – 156
+[RESTRICTED]
+Fig. 01: Sample email sent by fraudsters
+
+
+
+
+
+
+7)  Disclaimer: This advisory is provided "as is" for informational purposes only. The I4C(MHA) does not provide any warranties of any kind
+regarding any information contained herein. The I4C does not endorse any commercial product or service referenced in this Advisory or
+otherwise.
+1
+ April 22nd, 2022
+Subject: Cybercriminals perpetrating Eavesdropping attack to steal sensitive data
+Threat Summary
+Eavesdropping attacks happen when
+cyber criminals intercept, delete, or
+modify network traffic traveling over
+computers, servers, mobile devices
+and Internet of Things (IoT) devices.
+Network eavesdropping, also known
+as network snooping or sniffing,
+occurs when malicious actors exploit
+insecure or vulnerable networks to read
+or steal data as it travels between two
+devices. Eavesdropping is most common for wireless communication. Eavesdropping
+attacks can often be difficult to spot.
+Modus Operandi
+ Cybercriminals target connections between two endpoints (a client and server) which
+are not secure for Eavesdropping attacks.
+ Insecure network connections exist when encryption isn't used, when applications or
+devices aren't up to date, or when malware is present.
+ With an insecure network connection (typically a Wi-Fi hotspot or websites not
+running the HTTPS protocol) data packets (web, email or messaging traffic) traveling
+across the network are intercepted by cybercriminals.
+ Many sniffer programs created for network monitoring and vulnerability management
+are exploited for nefarious purposes of eavesdropping by cyber criminals.
+ Cybercriminals gain unauthorized access of user accounts with weak passwords,
+which gives them a route into sensitive data, corporate systems or networks and steal
+sensitive & valuable data.
+ The cybercriminals are after sensitive financial and business information that can be
+sold for criminal purposes. The eavesdropping attacks result in major financial losses
+and Identity theft.
+Cyber Crime Information - 152
+Fig. 01 – Eavesdropping attack
+Disclaimer: This advisory is provided "as is" for informational purposes only. The I4C(MHA) does not provide any warranties of any kind
+regarding any information contained herein. The I4C does not endorse any commercial product or service referenced in this Advisory or
+otherwise.
+2
+I4C
+Suggestions
+ Ensure operating systems and applications are updated to the most current versions.
+ Personal Firewall & Virtual Private Networks (VPN) may be used to prevent
+eavesdropping attacks.
+ Avoid Public Wi-Fi networks, especially for sensitive transactions.
+ Ensure passwords are strong and the password may be changed frequently.
+ Update anti-malware and anti-virus software and conduct regular network scans.
+ Report any such incidents on the cybercrime.gov.in portal and follow @CyberDost on
+Twitter, YouTube, Facebook, Instagram, Public, Koo and LinkedIn to know more about
+safety tips.
+Regards,
+Indian Cyber Crime Coordination Centre
+CIS Division, MHA
+011-23438207
+Cyber Crime Information – 152
+[RESTRICTED]
+Fig. 01: Sample email sent by fraudsters
+
+
+
+
+
+
+8)   Disclaimer: This advisory is provided "as is" for informational purposes only. The I4C(MHA) does not provide any warranties of any kind
+regarding any information contained herein. The I4C does not endorse any commercial product or service referenced in this Advisory or
+otherwise.
+1
+[RESTRICTED]
+
+March 21
+st, 2022
+Subject: Cybercriminals using Fake Customer Care Numbers / Helplines to defraud
+citizens
+Threat Summary
+Google and Social
+Media are the go-to places for
+most of us when we want to
+search for customer care
+number of a bank/merchant.
+Fraudsters are using this habit
+to siphon money off gullible
+consumers.
+Modus Operandi
+ Cybercriminals modify customer care numbers/helpline of a bank/company on google
+(and other search engines) and use Search Engine Optimization (SEO) to push their
+fake number(s) at the top of the search results. They create fake numbers of banks,
+financial institutions, online shopping websites and big brands, these fake numbers pop
+up when users search.
+ Fraudsters also alter the original contact numbers of popular banks and retail stores on
+Google Maps, as details on Google Maps are editable.
+ Fraudsters also tamper with customer care numbers on social media (Facebook, twitter,
+etc.). They meticulously monitor consumer complaints on Social Media and respond
+quickly to those messages in order to supply their fake phone numbers.
+ Unwitting victims call these numbers, fraudsters speak with them impersonating a
+bank/company employee, fraudsters then proceed to alert victims of issues with their
+bank account, credit or debit cards, loans or other related matter.
+ Victims are instructed to temporarily transfer funds to bank accounts provided by
+fraudsters in order to resolve the issue, or make payments for outstanding loans.
+Cyber Crime Information – 150
+Fig. 01 – Fake customer care numbers/Helpline
+Disclaimer: This advisory is provided "as is" for informational purposes only. The I4C(MHA) does not provide any warranties of any kind
+regarding any information contained herein. The I4C does not endorse any commercial product or service referenced in this Advisory or
+otherwise.
+2
+I4C
+ Some victims receive SMS messages with headers spoofing the bank's Sender ID, so
+these would appear as legitimate communications from the bank.
+ The cybercriminals also leverage the stolen financial information to withdraw funds from
+victims’ accounts.
+Suggestions
+ Always refer official bank/company website for authentic customer care numbers.
+ Avoid providing banking information such as a card number, CVV, ATM PIN, banking
+passwords, or One-Time Passwords (OTP) with anyone over the phone or by e-mail.
+ Avoid making payments in after being suggested in a customer service help. Scrutinize
+thoroughly before making any such payment.
+ Avoid sharing meeting details on public platforms (social media, group emails, etc.).
+ Report any such incidents on the www.cybercrime.gov.in portal and follow CyberDost &
+CyberDosti4c on various Social Media Platforms to know more about safety tips.
+Regards,
+Indian Cyber Crime Coordination Centre
+CIS Division, MHA
+011-23438207
+Cyber Crime Information – 150 [RESTRICTED]
+[RESTRICTED]
+Fig. 01: Sample email sent by fraudsters
+
+
+
+
+
+
+
+9)   This advisory is provided "as is" for informational purposes only. The (Indian Cyber Crime Coordination Centre) does not provide any
+warranties of any kind regarding any information contained herein. The I4C does not endorse any commercial product or service
+referenced in this newsletter/Advisory or otherwise.
+1
+[RESTRICTED]
+ July 16th,2021
+Subject: Cybercriminals committing Business Partnership scam to defraud citizens
+Threat Summary
+As per the open source analysis an email message is being circulated which offers a
+large sum of money to the recipient of the email. The email offers a partnership in a business
+venture.
+Emails, chats or messages inviting people to start a new business with an investor
+can be a fraud. The fraudsters generally impersonate to be an affluent person.
+Modus Operandi
+ A fraudster who claims to be a rich
+person approaches the victim offering
+a business proposal through social
+media platforms, emails, SMSs, etc.
+ Fraudster says that he/she is looking
+for a trusted partner in India and offer
+the victims a business partnership.
+ Fraudsters say that they will pay a
+large amount (in lakhs) to the victim
+to set up the business. But, to do all
+this they ask the victim to deposit
+some money, in the beginning, to get
+the process going.
+ The victims are asked to deposit money in various accounts for processing
+documentation, customs tax and other taxes.
+ After receiving the amount from victims, fraudsters break contact with the victims and
+steal the transferred money by the victims.
+Cyber Crime Information – 125
+Fig. 01: Sample email sent by fraudsters
+This advisory is provided "as is" for informational purposes only. The (Indian Cyber Crime Coordination Centre) does not provide any
+warranties of any kind regarding any information contained herein. The I4C does not endorse any commercial product or service
+referenced in this newsletter/Advisory or otherwise.
+2
+I4C
+ The fraudsters also ask for bank details of victims, details related to victim’s identity, credit
+card details, etc. which is further used for committing cyber financial frauds.
+Suggestions
+ Always scrutinize the sender of the email/text If you do not know him/her.
+ Carefully check all e-mails, attachment files & data from an unknown source.
+ Avoid sending money to any unknown person without confirming their identity and
+credibility.
+ If you have already given the fraudsters your bank account details, alert your bank
+immediately.
+ If you receive any threats from the fraudsters once you have stopped co-operating with
+them, alert the police immediately.
+ Report any such incidents on the cybercrime.gov.in portal and follow @CyberDost on
+Twitter to know more about safety tips.
+Regards
+Threat Analytics Unit (TAU)
+Indian Cyber Crime Coordination Centre
+CIS Division, MHA
+011-23438207
+Cyber Crime Information – 125 [RESTRICTED]
+[RESTRICTED]
+Fig. 01: Sample email sent by fraudsters
+
+
+
+
+
+
+10)  MODUS OPERANDI
+Creation of Fake Profiles: Fraudsters register on Indian matrimonial platforms (including regional
+ones) by creating profiles with false identities. They often use stolen or morphed photographs and
+fake personal details (name, age, profession, income, etc.) to appear genuine.
+Establishing Contact with Victims and targeting high income groups: Contact is initiated with
+genuine users by expressing interest in marriage proposals and quickly presenting themselves
+as well-settled professionals (e.g., working abroad, in the armed forces, or in reputed companies)
+to gain credibility and trust quickly. They use age and income filters to identify and target
+individuals who are financially well-off.
+Establishing Emotional Trust: Through
+continuous communication - via calls, chats,
+emails, and video calls on WhatsApp (often using
+fake or edited backgrounds), fraudsters build a
+sense of emotional intimacy and gradually gain
+the victim’s confidence and trust.
+False Investment Offers and Crypto Traps:
+After gaining the victim’s trust, perpetrators create urgent or emotional situations to solicit money
+in fraudulent investment schemes or investing in cryptocurrency promising high returns.
+PRECAUTIONS
+Verify the person's identity: Do background checks. Use a reverse image search on their photos
+to see if they are stolen from the internet.
+Protect your personal information: Don’t share private personal details, photos, or financial
+information with anyone you haven’t met in person.
+Invest after verification: Do not transfer money to someone online without verifying their identity.
+If an investment scheme appears too good to be true and providing unrealistic returns in very
+short span of time, avoid investing money.
+ADVISORY
+TAU/ADV/006 Dated: 31st October 2025
+National Cybercrime Threat Analytics Unit of I4C has identified a rise in misuse of matrimony
+platforms leading to investment scams. Based on NCRP complaint analysis, it was observed that
+fraudsters are creating fake profiles on matrimonial platforms like Jeevansaathi.com, Shaadi.com,
+Matrimony.com etc. or dating platforms (Tinder, Bumble, Ok Cupid etc.) to emotionally deceive
+and financially exploit individuals who are genuinely seeking relationships or marriage.
+National Cybercrime Threat Analytics Unit (NCTAU) | Indian Cyber Crime Coordination Centre (I4C)
+MISUSE OF MATRIMONIAL PLATFORMS FOR INVESTMENT/CRYPTO FRAUDS
+
+
+
+
+11)   MODUS OPERANDI
+▪ Initial Contact: - Fraudsters promote high-paying
+CAPTCHA-filling jobs on social media, job portals, or
+messaging platforms and claims of earning significant
+income with minimal effort are emphasized making it
+appealing to job seekers.
+▪ Registration Process: Victims, in order to start earning
+by Captcha Filling, are asked to register by paying registration fee, training fee, or
+software/application charges. Scammers sometimes present fabricated agreements to
+create an illusion of legitimacy.
+▪ Work Assignment: Upon registration, victims are given access to a fake CAPTCHAsolving platform for performing tasks that involve solving thousands of CAPTCHAs for an
+amount under strict deadlines.
+▪ Non-Payment: After a few weeks or months, victims are denied payouts and withdrawal
+of purported earnings on grounds of alleged inaccuracies in work, rendering their
+earnings invalid. This is often followed by delays or non-processing of withdrawals and
+further demands for additional payments under the pretext of taxes, processing charges,
+commissions, or membership upgrades. Thereafter, the scammers discontinue
+communication and abscond with the victims' deposits.
+PRECAUTIONS
+▪ Fake captcha jobs or illegal part-time jobs often promise high earnings but demand
+upfront fees and capture personal/financial information.
+▪ The Red Flags in such scams are upfront payment, unrealistic earning promises, delayed
+or denied withdrawals, and overemphasis on referral programs for increased income.
+▪ Research for the platform’s legitimacy through reviews and forums, avoid sharing
+sensitive personal/financial information.
+▪ Report cyber frauds immediately by calling 1930 or at www.cybercrime.gov.in.
+▪ Regularly update yourself on the latest cybercrime, and for prevention tips, follow
+@cyberdost on social media.
+ADVISORY
+TAU/ADV/004 Dated 8
+th April 2025
+There has been significant rise in complaints pertaining to online scams involving fraudulent
+CAPTCHA-filling jobs, wherein victims are lured with promises of high earnings for minimal
+effort. These schemes, primarily propagated through social media platforms, job portals,
+messages, or emails, are designed to defraud individuals by collecting personal data,
+demanding upfront payments, and withholding remuneration for completed tasks, thereby
+resulting in significant financial loss.
+RISE IN “FAKE CAPTCHA FILLING JOBS” BASED CYBERCRIME
+National Cybercrime Threat Analytics Unit (NCTAU) Indian Cyber Crime Coordination Centre (I4C)
+
+
+
+
+12)  EMBASSY OF INDIA
+YANGON
+*rr*
+Advisorv regarding fake iob racket targeting lndian vouth
+This advisory is being issued in continuation of the Embassy's
+advisories on the above subject, issued on Sth July 2022, 14 October
+2022,28th March 2023 and 13th September 2023.
+There has been an increase in the incidents of Indian nationals
+falling victim to the international crime syndicates active in Myawaddy
+region on Myanmar-Thailand border. We would re-emphasize the
+importance of adhering to our advisories on the subject for not taking
+any such job offers without consulting the respective Indian Embassies.
+A new location at Hpa Lu area, S.outh of Myawaddy town is reported to
+have emerged recently where most of the Indian victims are being
+trafficked into, via Thailand, after being recruited from India as well as
+from countries like Malaysia, UAE etc.
+In view of the above, it is reiterated that lndian nationals should not
+accept such job offers floated through social media platforms or other
+unverified sources. lndian nationals are advised to check/verify
+credentials of foreign employers through the lndian Embassy located in
+that country. The antecedents of recruiting agents as well as companies
+should also be established before taking up any job offer abroad.
+Embassy of India, Yangon may be contacted through Emailcons.yangon@mea.gov.in and Mobile No.- +9595419602
+(WhatsAppA/iber/Signal) for any Myanmar-related query in this regard.
+On the basis of inputs shared by the victims, an updated list of
+suspected agents, agencies and compounds involved in these criminal
+activities is enclosed.
+31"1 May 2024
+
+
+
+
+13)   Disclaimer: This advisory is provided "as is" for informational purposes only. The I4C(MHA) does not provide any warranties of any kind
+regarding any information contained herein. The I4C does not endorse any commercial product or service referenced in this Advisory or
+otherwise.
+1
+ August 29
+h
+, 2022
+Subject: Fraudsters sending Fake Job Offer SMSs to perpetrate Cyber Crime.
+Threat Summary
+A new trend in financial cyber fraud has
+been observed where fraudsters send Fake Job
+Offer SMSs to perpetrate Cyber Crime. Fraudsters
+place online advertisements claiming that they can
+give jobs where one can make large amount of
+money working from home with little time and effort.
+A job scam occurs when a fraudster poses
+as an employer or recruiter, and offers attractive
+employment opportunities, which require job
+seekers to pay some money in advance. The SMSs
+sent by fraudsters offer high-paying part-time jobs
+to siphon off victims’ money and their personal
+information.
+Modus Operandi
+ Fraudsters send text messages saying that “Your CV has been selected for a job”,
+“Accept this job and earn daily salary”, etc. to their targets.
+ The message is generally sent via an SMS-Header to make it look credible. The
+messages include a wa.me link (used for the WhatsApp’s “click to chat” feature). It
+allows users to begin a chat with anybody without having their phone number being
+saved.
+ Once the link is clicked WhatsApp conversation with the fraudster starts, the
+fraudster asks the victim to start the registration process on a malicious website link.
+ When the victim enters his/her personal details on the provided registration link, the
+sensitive personal data is compromised.
+ After that the fraudster asks the victim to add money to their account for verification
+& registration process.
+Cyber Crime Information - 160
+Fig. 01 – Sample SMSs perpetrating job frauds
+Disclaimer: This advisory is provided "as is" for informational purposes only. The I4C(MHA) does not provide any warranties of any kind
+regarding any information contained herein. The I4C does not endorse any commercial product or service referenced in this Advisory or
+otherwise.
+2
+I4C
+ The money sent by the innocent victims is siphoned off by the fraudsters, and the
+cybercriminals leverage the stolen sensitive personal/financial information to
+perpetrate further financial cyber crimes.
+Suggestions
+ Avoid tempting job offers sent via text messages or emails by unknown senders.
+ Scrutinize the job offering company online (use words like “scam,” “fraud,” or
+“complaint” with company name to online search & verify if similar scams are
+happening).
+ Avoid making any payment without authenticating the employer for registration or
+other purposes.
+ Securitize the SMS-Headers to confirm the authenticity of a job offer.
+ Fraudsters typically show urgency in their requests. Scrutinize properly, if a request
+seems too urgent.
+ Report any such incidents on the cybercrime.gov.in portal and follow @CyberDost
+on Twitter, YouTube, Facebook, Instagram, Public, Koo and LinkedIn to know more
+about safety tips.
+Regards,
+Indian Cyber Crime Coordination Centre
+CIS Division, MHA
+011-23438207
+Cyber Crime Information – 160
+[RESTRICTED]
+Fig. 01: Sample email sent by fraudsters
+
+
+
+
+
+14)  Disclaimer: This advisory is provided "as is" for informational purposes only. The I4C(MHA) does not provide any warranties of any kind
+regarding any information contained herein. The I4C does not endorse any commercial product or service referenced in this Advisory or
+otherwise.
+1
+Aug 30th
+, 2022
+Subject: Cybercriminals using fake Social Media Verification Badge to steal credentials.
+Threat Summary
+Various social media platforms such as
+Facebook, Instagram, Twitter, etc. offer verification
+badges as a credibility indicator to help show
+authenticity and integrity to visitors. To obtain a
+badge, profiles must meet various requirements
+and undergo a verification process.
+These coveted verification badges are
+being used as a phishing lure for social engineering
+campaigns targeting some of the most popular social
+networks across the internet. The lure of social
+media verification badges entices unsuspecting
+victims.
+Users in popular social media platforms are attractive targets for cybercriminals, due to
+the trusted brand and enormous customer base of such platforms.
+Modus Operandi
+ Fraudsters send phishing emails to their target victims, on the email id registered in their
+social media accounts.
+ Unsuspecting victims are lured into submitting their information to obtain a verified badge.
+The victims are provided with option to apply for the badge.
+ After clicking ‘Apply Now’, the webpage reveals a series of phishing forms on the domain
+that fraudsters create beforehand.
+ The form targets the victim’s social media login information and then asks for their email
+address and password credentials, which are used to reset and verify ownership of the
+phished social media accounts.
+ Fraudsters gain unauthorized access to the victims’ social media accounts and other
+sensitive personal and financial information, which is leveraged for further cyber financial
+frauds.
+Cyber Crime Information – 161
+Fig. 01 – Fraudsters perpetrating frauds using
+fake social media verification Badge lure
+Disclaimer: This advisory is provided "as is" for informational purposes only. The I4C(MHA) does not provide any warranties of any kind
+regarding any information contained herein. The I4C does not endorse any commercial product or service referenced in this Advisory or
+otherwise.
+2
+I4C
+Suggestions
+ Exercise caution when clicking on links provided on emails, and verify that they’re safe before
+you take any action.
+ Verify policies for attaining verification badges of twitter, Facebook, Instagram, etc. on their
+official websites.
+ Scrutinize, if a request seems too urgent, as fraudsters typically show urgency in their
+requests.
+ Scrutinize the domain name of the webpages where information is required to be filled.
+ Don’t open attachments or download files from untrusted sources.
+ Report any such incidents on the cybercrime.gov.in portal and follow @CyberDost on
+Twitter, YouTube, Facebook, Instagram, Public, Koo and LinkedIn to know more about
+safety tips.
+Regards
+Indian Cyber Crime Coordination Centre
+CIS Division, MHA
+011-23438207
+Cyber Crime Information – 161 [RESTRICTED]
+[RESTRICTED]
+Fig. 01: Sample email sent by fraudsters
+
+
+
+
+15 )   Disclaimer: This advisory is provided "as is" for informational purposes only. The I4C(MHA) does not provide any warranties of any kind
+regarding any information contained herein. The I4C does not endorse any commercial product or service referenced in this Advisory or
+otherwise.
+1
+[RESTRICTED]
+ July 6
+th, 2022
+Subject: Fraudsters using Army personnel details to perpetrate financial cyber
+frauds
+Threat Summary
+As per the analysis of recent
+complaints reported on NCRP of
+I4C, a new trend in financial cyber
+fraud has been observed where
+fraudsters impersonate Indian
+army personnel to exploit the
+goodwill associated with the armed
+forces to siphon off money from
+innocent victims who have
+advertised to put their property
+(House, Flat, Rooms, etc. on rent) on the
+popular house renting websites/apps, real estate database website or social media
+websites, etc.
+Modus Operandi
+ Fraudsters choose their targets from house renting websites/apps (99 acres,
+Housing.com, etc.), real estate database websites or social media websites, etc. by
+seeing ads for renting a house, a flat, rooms, etc.
+ Fraudsters contact their targets posing as Indian Army officials (by providing
+stolen/fake credentials of army persons), and inform them (victims) that they
+(fraudsters) have recently got posted and must move immediately to a house.
+ The fraudsters claim that the security deposit for rent can only be transferred by the
+Army bank, and ask (the victims) to share UPI details.
+ Fraudsters provide their UPI details to the victims and ask them to add the details
+(claiming it to be a requirement for claiming allowances) provided in their payment
+accounts (victims).
+Cyber Crime Information - 159
+Fig. 01 – Fraudsters perpetrating frauds using details
+of army personnel
+Disclaimer: This advisory is provided "as is" for informational purposes only. The I4C(MHA) does not provide any warranties of any kind
+regarding any information contained herein. The I4C does not endorse any commercial product or service referenced in this Advisory or
+otherwise.
+2
+I4C
+ Victims are asked to transfer small amounts for verification. After initial small
+transactions, fraudsters tell the victims to receive the actual large amount. But in
+reality, they send ‘request for money’ to the victims which are unknowingly accepted
+by the victims.
+ Fraudsters make withdrawals from the sent amount instantaneously, as the victims
+get defrauded into sending the money.
+Request for Money - a notification is sent to a contact requesting for money, only
+entering the OTP is required for completing the transactions, which is many a times
+mistaken by victims thinking that they will receive money.
+Suggestions
+ Always remember that entering OTP is a requirement for sending money, not for
+receiving it.
+ If an unknown person makes contact for renting your house, flat, or rooms, etc., try
+to confirm his/her identity from other available methods/sources.
+ Fraudsters typically show urgency in their requests. Scrutinize, if a request seems
+too urgent.
+ Avoid relying on conversations and identity details provided by unknown people on
+messaging apps, house renting platforms, etc.
+ Scrutinize every transaction request made to you from people unknown to you.
+ Captiously perform transactions on various online transaction platforms, aware
+yourself with all the features a payment gateway.
+ Report any such incidents on the cybercrime.gov.in portal and follow @CyberDost
+on Twitter, YouTube, Facebook, Instagram, Public, Koo and LinkedIn to know more
+about safety tips.
+Regards,
+Indian Cyber Crime Coordination Centre
+CIS Division, MHA
+011-23438207
+Cyber Crime Information – 159 [RESTRICTED]
+[RESTRICTED]
+Fig. 01: Sample email sent by fraudsters
+
+
+
+
+16)  Disclaimer: This advisory is provided "as is" for informational purposes only. The I4C(MHA) does not provide any warranties of any kind
+regarding any information contained herein. The I4C does not endorse any commercial product or service referenced in this Advisory or
+otherwise.
+1
+[RESTRICTED]
+ April 26th
+, 2022
+Subject: Cybercriminals Tampering with QR Codes to defraud Citizens
+Threat Summary
+Cybercriminals are tampering with Quick Response (QR) codes to redirect victims to
+malicious sites that steal login and financial information.
+A QR code is a square barcode that a smartphone camera can scan and read to provide
+quick access to a website, to prompt the download of an application, and to direct payment to
+an intended recipient. Businesses use QR codes legitimately to provide convenient contactless
+access and have used them more
+frequently during the COVID-19
+pandemic. However, cybercriminals are
+taking advantage of this technology by
+directing QR code scans to malicious
+sites to steal victim data, embedding
+malware to gain access to the victim's
+device, and redirecting payment for
+cybercriminal use.
+Modus Operandi
+ Cybercriminals tamper with both digital and physical QR codes to replace legitimate codes
+with malicious codes.
+ When victims scan what they think to be a legitimate QR code but the tampered code directs
+victims to a malicious site, which prompts them to enter login and financial information.
+ Malicious QR codes may also contain embedded malware, allowing a criminal to gain access
+to the victim's mobile device and steal the victim's location as well as personal and financial
+information.
+ The cybercriminals leverage the stolen financial information to withdraw funds from victims’
+accounts or deceive victims into making fraudulent payments.
+Cyber Crime Information - 153
+Fig. 01 – Tampered QR Codes used for cyber frauds
+Disclaimer: This advisory is provided "as is" for informational purposes only. The I4C(MHA) does not provide any warranties of any kind
+regarding any information contained herein. The I4C does not endorse any commercial product or service referenced in this Advisory or
+otherwise.
+2
+I4C
+Suggestions
+ After scanning a QR code, check the URL to make sure it is the intended site and looks
+authentic.
+ Practice caution when entering login, personal, or financial information on a site opened
+using a QR code.
+ Ensure the QR code has not been tampered with, such as with a sticker placed on top of the
+original physical QR code.
+ Avoid downloading an app from aQR code. Use your phone's app store for a safer download.
+ Verify with the company (through contacts on official websites) if payment for an
+article/service is requested via QR Code.
+ Verify by calling a known number (of sender) that the sent QR code payment link is authentic.
+ Avoid making payments through a site navigated to from a QR code. Instead, manually enter
+a known and trusted URL to complete the payment.
+ Report any such incidents on the cybercrime.gov.in portal and follow @CyberDost on
+Twitter, YouTube, Facebook, Instagram, Public, Koo and LinkedIn to know more about safety
+tips.
+Regards,
+Indian Cyber Crime Coordination Centre
+CIS Division, MHA
+011-23438207
+Cyber Crime Information – 153 [RESTRICTED]
+[RESTRICTED]
+Fig. 01: Sample email sent by fraudsters
+
+
+
+17)  Disclaimer: This advisory is provided "as is" for informational purposes only. The I4C(MHA) does not provide any warranties of any kind
+regarding any information contained herein. The I4C does not endorse any commercial product or service referenced in this Advisory or
+otherwise.
+1
+[RESTRICTED]
+ April 21
+st, 2022
+Subject: Banking Trojans (Malware) stealing confidential information to defraud
+citizens
+Threat Summary
+A banker Trojan is a piece of malware that
+steals banking credentials from citizens who
+use internet/mobile banking services through
+apps or websites. Recently a multitude of
+cases related to such Trojans, e.g., Sharkbot,
+Escobar, Zbot, Trickbot, etc. have been
+observed. Banking Trojans are disguised as
+innocent applications/webpages, and avoid
+being detected by “having dormant capabilities,
+hiding components in other files, forming part of a rootkit, or using heavy obfuscation.”
+Predominantly victims’ devices are infected through e-mail attachments (or e-mail links),
+drive-by downloads, deceptive pop-up windows, etc.
+Modus Operandi
+ Cybercriminals mask malicious apps under the guise of legitimate applications (mobile
+banking and payment apps are targeted generally), which can often be downloaded from
+official app stores.
+ Banking malware (hidden in malicious apps) create a backdoor, allowing fraudsters to
+gain access to the victim’s device, or it may instead copy a bank client’s credentials by
+spoofing a financial institution’s login webpage.
+ When the victim accesses his/her online banking account, the domain is specified in the
+configuration file downloaded by the malware from the malicious servers controlled by
+the hackers.
+ The malware sends a request to the malicious servers controlled by cybercriminals and
+lets them know the user is trying to access the domain specified in the configuration file.
+ The malicious server specifies a page on the online banking account – usually the login
+page – where the attack occurs.
+Cyber Crime Information – 151
+Fig. 01 – Banking Trojans defrauding citizens
+Disclaimer: This advisory is provided "as is" for informational purposes only. The I4C(MHA) does not provide any warranties of any kind
+regarding any information contained herein. The I4C does not endorse any commercial product or service referenced in this Advisory or
+otherwise.
+2
+I4C
+ When the user accesses the specified page, the malware sends a request to the
+malicious server, sending back a modified page into the user’s browser. The modified
+page tricks the user into believing that he is entering his credentials in the normal page
+of the online banking account.
+ The modified page asks for the user’s sensitive information, such as credentials for the
+online banking websites / credit / debit card number / pins, etc.
+ The main goal of the trojan is to steal enough information to allow the threat actors to
+take over victims' bank accounts, siphon available balances, and perform unauthorized
+transactions.
+Suggestions
+ Avoid downloading software from unofficial sources. Remove non-essential applications.
+ Always use Two-factor authentication/MFA and all the security features provided by the
+banks.
+ Do not open e-mails or attachments from unknown individuals. Do not communicate with
+unsolicited e-mail senders.
+ Ensure operating systems and applications are updated to the most current versions.
+ Deploy a traffic filtering solution that can spot even hidden threats and suspicious log of
+network traffic.
+ Update anti-malware and anti-virus software and conduct regular network scans.
+ Report any such incidents on the cybercrime.gov.in portal and follow @CyberDost on
+Twitter, YouTube, Facebook, Instagram, Public, Koo and LinkedIn to know more about
+safety tips.
+Regards,
+Indian Cyber Crime Coordination Centre
+CIS Division, MHA
+011-23438207
+Cyber Crime Information – 151 [RESTRICTED]
+[RESTRICTED]
+Fig. 01: Sample email sent by fraudsters
+
+
+
+
+
+18)  Disclaimer: This advisory is provided "as is" for informational purposes only. The I4C(MHA) does not provide any warranties of any kind
+regarding any information contained herein. The I4C does not endorse any commercial product or service referenced in this Advisory or
+otherwise.
+1
+[RESTRICTED]
+
+Feb 02
+nd
+, 2022
+Subject: Malicious Executable Files distributed during Video Conferences (VCs)
+Threat Summary
+The Covid-19 pandemic created a massive
+surge in the use of video conferencing
+platforms (for video telephony and online
+chats), which has raised understandable
+concerns about risk and security.
+Cybercriminals are targeting such
+platforms where virtual meetings are held
+by government organizations, educational
+institutions and businesses, etc.
+Cybercriminals continuously developing techniques for covert attendance in video
+conferences to perpetrate further cyber crimes as the need for such platforms to interface
+with browsers also creates opportunities for inadvertent vulnerabilities that hackers can
+exploit.
+Modus Operandi
+ Cybercriminals gain access of virtual meetings/classes by compromising the email
+addresses belonging to the target organization(s) / participants.
+ Once inside a meeting, cybercriminals drop malicious executable file(s) disguised as
+a related important document to trick users into opening/running it, which generally
+implement some malware program, trojan, etc.
+ After installation, the executable file initiates malicious activities in the system and
+infects victims’ devices with various malware, allowing cybercriminals to remotely
+access victim’s system.
+ Espionage efforts aimed at government organizations and businesses also take place
+by accessing the shared data in the meetings or record the whole meetings.
+Cyber Crime Information – 149
+Virtual
+Meetings
+Fig. 01 – Video Conferencing Platforms
+Disclaimer: This advisory is provided "as is" for informational purposes only. The I4C(MHA) does not provide any warranties of any kind
+regarding any information contained herein. The I4C does not endorse any commercial product or service referenced in this Advisory or
+otherwise.
+2
+Suggestions
+ Scrutinize the source of the file(s) posted during virtual meeting or classes before
+downloading.
+ Multi-factor authentication feature (such as password based entry) may be included
+to verify that only authorized members participate in a meeting. Hosts may also keep
+track of who is joining the meeting.
+ Ensure that video conferencing platform uses encryption, follows industry best
+practices for patching & updating, and uses a reputable cloud service provider.
+ Organizations may implement protection that downloads all files in a sandbox and
+inspects them for malicious content.
+ Avoid clicking on the links shared during virtual meetings/classes without confirming
+the source(s) as it might be a phishing links.
+ Avoid opening e-mails or messages sent from unknown senders. Do not click on any
+link sent on such mails.
+ Government officials may utilize video conferencing tools developed by CDAC,
+CDOT and NIC. For sharing documents CDAC's Samvad and NIC's Sandes app may
+be used.
+ Avoid sharing meeting details on public platforms (social media, group emails, etc.).
+ Utilize waiting rooms or lobbies feature where participants can wait before they’re
+allowed to join the meeting.
+ Report any such incidents on the cybercrime.gov.in portal and follow @CyberDost
+on Twitter to know more about safety tips.
+Regards,
+Indian Cyber Crime Coordination Centre
+CIS Division, MHA
+011-23438207
+Cyber Crime Information – 149 [RESTRICTED] I4C
+[RESTRICTED]
+Fig. 01: Sample email sent by fraudsters
+
+
+
+
+
+19)  This advisory is provided "as is" for informational purposes only. The (Indian Cyber Crime Coordination Centre) does not provide any
+warranties of any kind regarding any information contained herein. The I4C does not endorse any commercial product or service
+referenced in this newsletter/Advisory or otherwise.
+1
+[RESTRICTED]
+ Aug 05th,2021
+Subject: Cybercriminals defrauding citizens going on holiday as travel restrictions
+ease.
+Threat Summary
+Fraudsters always take advantage of disasters, manmade or natural. They use
+multiple avenues to steal money from unsuspecting citizens, including frauds related to
+travel. After long period of lockdown due to the coronavirus pandemic, people are more
+eager to go on a holiday and relax with family and friends. A new trend of using travel
+advertisements, by impersonating travel agency personnel and creating fake travel
+websites, for defrauding citizens has been noticed.
+Modus Operandi
+ Fraudsters approach victims
+through an advertisement, Fake
+travel website or social media
+platforms.
+ Names of online booking platforms,
+such as MakeMyTrip, Airbnb, etc.,
+are generally misused in such ads,
+websites and social media pages.
+ Many citizens have fallen victim to
+such frauds in below mentioned
+ways;
+i. Fake advertisements: Cybercriminals
+get hold of the victims when they respond
+to fake travel advertisements circulated on
+social media. Then the victims are convinced by fraudsters to transfer money for buying
+fake travel packages.
+ii. Impersonating travel agents: Fraudsters randomly contact victims purporting to be from
+a travel company or an airline to offers incredible discounts on travel packages. Victims
+are taken through the booking procedure and the take payment is taken via online
+banking methods.
+Cyber Crime Information – 127
+Fig. 01 – Sample image showing advertisement
+by fraudsters for travelling
+This advisory is provided "as is" for informational purposes only. The (Indian Cyber Crime Coordination Centre) does not provide any
+warranties of any kind regarding any information contained herein. The I4C does not endorse any commercial product or service
+referenced in this newsletter/Advisory or otherwise.
+2
+I4C
+iii. Fake travel websites: Fraudsters create fake travel websites and fake holiday
+accommodation websites to lead victims to make bookings.
+ Victims fall prey to these ways used by cybercriminals and lose their hard-earned money by
+booking such travel packages, flight tickets, accommodation packages, etc.
+ Victims become aware that they have been defrauded when the contact is discontinued by
+fraudsters and they lose booking amount.
+Suggestions:
+ Thoroughly scrutinize any unknown person offering a great travel deal on the phone or
+through social media/email.
+ Check such website URLs for legitimacy, and if altered by slight changes to domain names.
+ Thoroughly search online the travel company, and the package provided, to ensure
+credibility of the company.
+ Always remember, if a deal sounds too good to be true, it probably is.
+ Report any such incidents on the cybercrime.gov.in portal and follow @CyberDost on
+Twitter to know more about safety tips.
+Regards
+Threat Analytics Unit (TAU)
+Indian Cyber Crime Coordination Centre
+CIS Division, MHA
+011-23438207
+Cyber Crime Information – 127 [RESTRICTED]
+[RESTRICTED]
+Fig. 01: Sample email sent by fraudsters
