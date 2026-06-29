@@ -267,7 +267,9 @@ def chat(request: schemas.ChatRequest, db: DBSession = Depends(get_db)):
             "cyber","online","internet","hacking","hack","otp","upi",
             "bank fraud","phishing","digital arrest","loan app",
             "qr","scam","fraud","cybercrime","email","social media",
-            "crypto","wallet","malware","virus","ransomware"
+            "crypto","wallet","malware","virus","ransomware",
+            "phone","mobile","sim","chori","chor","gum","khoya","khogaya",
+            "lost","stolen","steal","imei","tracker","track","locate"
         ]
 
         if not any(k in question for k in cyber_keywords):
