@@ -144,10 +144,6 @@ def chat(request: schemas.ChatRequest, db: DBSession = Depends(get_db)):
 
         results = collection.query(**query_kwargs)
         
-        # print("========== CHROMA DEBUG ==========")
-        # print(results.get("metadatas"))
-        # print(results.get("documents"))
-        # print("==================================")
         print(f"🐛 DEBUG topic_name={request.topic_name!r} topic_filter={request.topic_filter!r} message={request.message!r}")
 
     except Exception as e:
