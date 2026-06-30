@@ -19,14 +19,21 @@ from utils.document_processor import (
 
 load_dotenv()
 
-print("GROQ KEY =", os.getenv("GROQ_API_KEY")[:15])
+# print("GROQ KEY =", os.getenv("GROQ_API_KEY")[:15])
+api_key = os.getenv("GROQ_API_KEY")
+
+if not api_key:
+    raise RuntimeError("GROQ_API_KEY is not set")
+
+print("GROQ KEY Loaded Successfully")
 
 models.Base.metadata.create_all(bind=engine)
 
 app = FastAPI(title="NyayaAI Backend")
 
 # Groq client
-groq_client = Groq(api_key=os.getenv("GROQ_API_KEY"))
+# groq_client = Groq(api_key=os.getenv("GROQ_API_KEY"))
+groq_client = Groq(api_key=api_key)
 
 
 GROQ_VISION_MODEL = os.getenv("GROQ_VISION_MODEL", "qwen/qwen3.6-27b")
@@ -406,7 +413,9 @@ def chat(request: schemas.ChatRequest, db: DBSession = Depends(get_db)):
 
     """
 
-    if request.topic_name != "All Topics":
+    topic_rules = ""
+
+    if request.topic_name and request.topic_name != "All Topics":
 
         if request.topic_name == "Cybercrime":
             topic_rules = """
@@ -821,10 +830,14 @@ IMPORTANT:
 
     
     
-    
 
 
 
 
 
-
+    return {
+        "session_id": session_id,
+        "response": ai_response,
+        "filename": file.filename,
+        "file_type": file_kind,
+    }

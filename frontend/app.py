@@ -342,7 +342,3 @@ elif user_question:
     
 
 
-
-
-
-
