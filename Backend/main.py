@@ -571,13 +571,6 @@ Context:
     })
 
     try:
-        # completion = groq_client.chat.completions.create(
-        #     model=os.getenv("GROQ_MODEL"),
-        #     messages=messages,
-        #     max_tokens=1500
-        # )
-
-        # ai_response = clean_llm_response(completion.choices[0].message.content)
         
         ai_response = ask_llm(messages)
 
@@ -835,5 +828,3 @@ IMPORTANT:
 
 
 
-# cd "/d/Python Notes/New Projects/NyayaAI_fixed/New NyayaAI/Backend"
-# uvicorn main:app --reload
