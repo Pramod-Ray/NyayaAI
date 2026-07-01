@@ -841,3 +841,11 @@ IMPORTANT:
         "filename": file.filename,
         "file_type": file_kind,
     }
+    
+    
+    
+    
+    
+    
+# cd Backend
+# uvicorn main:app --reload
