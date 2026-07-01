@@ -9,7 +9,7 @@ tqdm==4.66.1
 openai==1.80.0
 fastapi==0.110.0
 uvicorn==0.29.0
-sqlalchemy==2.0.28
+sqlalchemy==2.0.43
 psycopg2-binary==2.9.9
 python-multipart==0.0.9
 gunicorn==23.0.0
