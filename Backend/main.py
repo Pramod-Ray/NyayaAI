@@ -1,6 +1,6 @@
 from fastapi import FastAPI, Depends, HTTPException, UploadFile, File, Form
 from sqlalchemy.orm import Session as DBSession
-from database import get_db, engine
+from Backend.database import get_db, engine
 import models, schemas
 from groq import Groq
 import chromadb
