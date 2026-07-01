@@ -1,7 +1,7 @@
 from fastapi import FastAPI, Depends, HTTPException, UploadFile, File, Form
 from sqlalchemy.orm import Session as DBSession
 from Backend.database import get_db, engine
-import models, schemas
+from Backend import models, schemas
 from groq import Groq
 import chromadb
 from sentence_transformers import SentenceTransformer
@@ -11,7 +11,7 @@ import uuid
 from dotenv import load_dotenv
 from typing import List, Optional
 
-from utils.document_processor import (
+from Backend.utils.document_processor import (
     validate_file,
     encode_image_to_data_url,
     extract_text_from_pdf,
